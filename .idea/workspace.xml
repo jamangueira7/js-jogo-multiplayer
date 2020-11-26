@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4ca592d6-fb30-467d-9713-fa05bdcce69d" name="Default Changelist" comment="" />
+    <list default="true" id="4ca592d6-fb30-467d-9713-fa05bdcce69d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitpode.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,7 +20,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1jIKeSUUpCQ1C3m5tKQw27JNOpF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -48,6 +55,8 @@
       <option name="presentableId" value="Default" />
       <updated>1603486260515</updated>
       <workItem from="1603486261572" duration="17976000" />
+      <workItem from="1603638208833" duration="110000" />
+      <workItem from="1606424649980" duration="384000" />
     </task>
     <servers />
   </component>
@@ -55,6 +64,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="580" y="187" key="FileChooserDialogImpl" timestamp="1603638321269">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="580" y="187" key="FileChooserDialogImpl/62.0.1474.864/1982.0.2498.1080@62.0.1474.864" timestamp="1603638321269" />
     <state x="456" y="197" key="run.anything.popup" timestamp="1603577954892">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
