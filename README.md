@@ -28,8 +28,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Projeto com o jogo da cobrinha(snake game).
 
-Esse projeto foi inspirado no video do canal [Código de Estgiário](https://www.youtube.com/watch?v=z76s9vNjXOM).
+Esse projeto foi inspirado no video do canal [Filipe Deschamps](https://www.youtube.com/watch?v=0sTfIZvjYJk&list=PLMdYygf53DP5SVQQrkKCVWDS0TwYLVitL).
 
+Codigo original [Github](https://github.com/filipedeschamps/meu-primeiro-jogo-multiplayer)
+
+Execute o projeto pelo [Gitbod](http://gitpod.io/#https://github.com/jamangueira7/js-jogo-multiplayer)
 
 ## 🚀 Como Rodar
 
