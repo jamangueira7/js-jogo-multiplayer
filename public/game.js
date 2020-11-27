@@ -23,7 +23,6 @@ export default function createGame() {
         }
         notifyAll({
             type: 'restart',
-            state
         });
     }
 

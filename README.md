@@ -1,17 +1,19 @@
 <p align="center">
+  <img alt="animation" src=".github/game.gif" width="100%">
+</p>
+
+<p align="center">
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
   <a href="#-como-rodar">Como rodar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;
-  </p>
-
+ </p>
 
 <br>
-
 
 # Snake Game
 
 <p align="center">
-  <img alt="animation-rotate" src=".github/image.PNG" width="100%">
+  <img alt="game multiplayer" src=".github/image.PNG" width="100%">
 </p>
 
 ## 🚀 Tecnologias

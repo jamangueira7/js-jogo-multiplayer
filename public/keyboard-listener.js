@@ -25,7 +25,16 @@ export default function createkeyboardListener(document) {
         }
     }
 
-    document.addEventListener('keydown', handleKeydonw);
+    addEventListener('keydown', handleKeydonw);
+
+    addEventListener('click', handleButtonRestart);
+
+    function handleButtonRestart() {
+        const command = {
+            type: 'restart',
+        }
+        notifyAll(command);
+    }
 
     function handleKeydonw(event){
         const keyPressed = event.key;
@@ -42,6 +51,6 @@ export default function createkeyboardListener(document) {
     return {
         subscribe,
         unsubscribeAll,
-        registerPlayerId
+        registerPlayerId,
     }
 }

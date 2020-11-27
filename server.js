@@ -36,6 +36,12 @@ sockets.on('connection', (socket) => {
 
       game.movePlayer(command);
    });
+
+   socket.on('restart', () => {
+      console.log(`> Restart game`);
+      game.restart();
+   });
+
 });
 
 server.listen(3000, () => {
